@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-respiratory-inertance-airway-compliance-skill",
+  "version": "1.0.0",
+  "description": "Zero-dependency sovereign personal agent skill for evaluating two-compartment respiratory inertance (Irs), dynamic lung compliance (Cdyn), and mechanical Work of Breathing (WOB).",
+  "author": "AlphaPark Inc.",
+  "license": "Apache-2.0",
+  "entrypoint": "client.py",
+  "mcp_server": "mcp_server.py",
+  "tags": [
+    "personal-agent",
+    "ai-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "python",
+    "zero-dependency",
+    "wellness",
+    "productivity",
+    "production-ready"
+  ]
+}
